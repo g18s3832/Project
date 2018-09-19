@@ -1,0 +1,22 @@
+﻿<Window x:Name="ViewWindow" x:Class="Rough_Project_work.Window1"
+        KeyDown="Window_Keydown"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rough_Project_work"
+        mc:Ignorable="d"
+        Title="Window1" Height="330.252" Width="612.605" Background="Black">
+    <Viewbox x:Name="View" Width="{Binding ActualWidth, ElementName=WinGrid}" OpacityMask="Black">
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="{Binding ActualHeight, ElementName=WinGrid}" VerticalAlignment="Top" Width="{Binding ActualWidth, ElementName=WinGrid}">
+            <Grid x:Name="WinGrid" Background="Black" Width="{Binding ActualWidth, ElementName=ViewWindow}" Height="{Binding ActualHeight, ElementName=ViewWindow}">
+                <Image HorizontalAlignment="Left" Height="0" Margin="-143,-47,0,0" VerticalAlignment="Top" Width="2"/>
+                <Image HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="136" Margin="233,189,0,0" OpacityMask="#FF87DA42"/>
+
+            </Grid>
+            <Button x:Name="Main_Menu_Button" Content="Main Menu" HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="136" Canvas.Left="233" Canvas.Top="184"/>
+            <Image x:Name="ship" Source="Ship 1.png" RenderTransformOrigin="0.409,1.347" Stretch="Fill" Width="62" Height="52" VerticalAlignment="Center" HorizontalAlignment="Center" Canvas.Left="290" Canvas.Top="268"/>
+            <Button x:Name="Play" Content="Play" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="136" Click="Play_Click" Canvas.Left="233" Canvas.Top="114"/>
+        </Canvas>
+    </Viewbox>
+</Window>

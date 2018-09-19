@@ -1,0 +1,49 @@
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe.config
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\bin\Debug\Rough Project work.pdb
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csprojResolveAssemblyReference.cache
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\MainWindow.g.cs
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\App.g.cs
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.cache
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.lref
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\MainWindow.baml
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.g.resources
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough_Project_work.Properties.Resources.resources
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.GenerateResource.Cache
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.CoreCompileInputs.cache
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.exe
+J:\CSc102_Pracs-\Rough Project work\Rough Project work\obj\Debug\Rough Project work.pdb
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe.config
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\bin\Debug\Rough Project work.pdb
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csprojResolveAssemblyReference.cache
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\MainWindow.g.cs
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\App.g.cs
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.cache
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.lref
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\MainWindow.baml
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.g.resources
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough_Project_work.Properties.Resources.resources
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.GenerateResource.Cache
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.CoreCompileInputs.cache
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.exe
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Rough Project work.pdb
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Window1.g.cs
+C:\Users\g18o0165\Downloads\Rough Project work\Rough Project work\obj\Debug\Window1.baml
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Window1.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.exe
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\bin\Debug\Rough Project work.exe
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\bin\Debug\Rough Project work.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Window1.baml
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough_Project_work.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g18s3832\Desktop\-Rough Project work\Rough Project work\obj\Debug\Rough Project work.csproj.CoreCompileInputs.cache
